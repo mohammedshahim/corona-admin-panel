@@ -1,0 +1,24 @@
+{
+  "name": "corona-admin-panel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohammedshahim/corona-admin-panel.git"
+  },
+  "keywords": [
+    "Corona",
+    "admin",
+    "panel"
+  ],
+  "author": "shahim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohammedshahim/corona-admin-panel/issues"
+  },
+  "homepage": "https://github.com/mohammedshahim/corona-admin-panel#readme"
+}
